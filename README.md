@@ -52,9 +52,9 @@ This project is intended for live broadcasts only. If you'd like to record your 
 
 #Contributors
 
-Made by Vitor Bapista
+Made by Vitor Bapista (http://twitter.com/vitorbaptista)
 
-Homebrew build by Atharva Deshmukh
+Homebrew build by Atharva Deshmukh (http://twitter.com/arthar360)
 
 # License
 
