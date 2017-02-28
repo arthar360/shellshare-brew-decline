@@ -50,6 +50,12 @@ following:
 
 This project is intended for live broadcasts only. If you'd like to record your terminal, check [asciinema.org](https://asciinema.org).
 
+#Contributors
+
+Made by Vitor Bapista
+
+Homebrew build by Atharva Deshmukh
+
 # License
 
 Copyright 2015 Vitor Baptista
